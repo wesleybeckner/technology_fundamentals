@@ -21,6 +21,8 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
      * Tech Fun C1 L1: Practice with Python and Jupyter Notebooks
      * Tech Fun C1 L2: Practice with Flow Control
      * Tech Fun C1 L3: Practice with Functions and Pandas
+ * Reading
+     * JVDP chapters 1-2
 
 <p align=center>
 <img src="assets/week1.png" width=600></img>
@@ -46,6 +48,9 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
  * Labs
      * Tech Fun C2 L1: Descriptive Statistics Data Hunt
      * Tech Fun C2 L2: Inferential Statistics Data Hunt
+ * Reading
+     * JVDP chapters 3-4
+     * INFO 370 [Statistical Golems](https://docs.google.com/document/d/1daYaEaAo7AVqxITspemGKoJTcundjWoJH8e_CkskMN4/edit)
 
 <p align=center>
 <img src="assets/week2.png" width=600></img>
@@ -70,7 +75,8 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
  * Labs
      * Tech Fun C3 L1: Feature Engineering
      * Tech Fun C3 L2: Supervised Learners
-     
+ * Reading
+     * JVDP chapter 5
 
 <p align=center>
 <img src="assets/week3.png" width=600></img>
