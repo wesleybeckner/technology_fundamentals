@@ -1,5 +1,7 @@
 # technology_fundamentals
 
+Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 ## Series Overview
 
 ### Course 1: Fundamentals
