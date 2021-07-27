@@ -61,7 +61,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 ### Course 3: Machine Learning I
 
 *	Data Science Topics 
-	   *	Supervised learning: classification; resampling methods; model selection and regularization; beyond regression coefficients: tree-based methods; unsupervised learning: clustering and dimensionality reduction; neural networks: the perceptron, feed forward neural networks
+	   *	supervised learning: classification; resampling methods; model selection and regularization; beyond regression coefficients: tree-based methods; unsupervised learning: clustering and dimensionality reduction; neural networks: the perceptron, feed forward neural networks
 *	Software Development Topics
 	   *	unit tests
 *	Project
@@ -99,7 +99,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 	   *	Tech Fun C4 S3: Time Series Analysis
 	   *	Tech Fun C4 S4: Reinforcement Learning
  * Labs
-     * Tech Fun C4 L1: Neural Network linearity
+     * Tech Fun C4 L1: Neural Network Linearity
      * Tech Fun C4 L2: Unit Tests
 
 <p align=center>
