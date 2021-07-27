@@ -7,9 +7,9 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 ### Course 1: Fundamentals
 
 *	Data Science Topics
-	   * introduction to python; lists, dictionaries, and flow control; functions and pandas; visualization: matplotlib, seaborn and pandas; 
+	   * Introduction to python; lists, dictionaries, and flow control; functions and pandas; visualization: matplotlib, seaborn and pandas; 
 *	Software Development Topics 
-	   * object oriented programming
+	   * Object oriented programming
 *	Project
 	   * Tech Fun C1 P1: Building TicTacToe in Python
 *	Sessions
@@ -33,9 +33,9 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 ### Course 2: Statistics and Model Creation
 
 *	Data Science Topics 
-	   *	bias-variance tradeoff; regression: linear, logistic, and multivariate; regularization: L1 and L2; inferential statistics: moods median, t-tests, f-tests, ANOVA; descriptive statistics: mean, median, mode, kurtosis, skew
+	   *	Bias-variance tradeoff; regression: linear, logistic, and multivariate; regularization: L1 and L2; inferential statistics: moods median, t-tests, f-tests, ANOVA; descriptive statistics: mean, median, mode, kurtosis, skew
 *	Software Development Topics
-	   *	debugging
+	   *	Debugging
 *	Project
 	   *	Tech Fun C2 P2 PART I: Game AI, OOP and Agents (OOP)
 	   *	Tech Fun C2 P2 PART II: Game AI, OOP and Agents (Random Agent)
@@ -63,7 +63,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 *	Data Science Topics 
 	   *	Supervised learning: classification; resampling methods; model selection and regularization; beyond regression coefficients: tree-based methods; unsupervised learning: clustering and dimensionality reduction; neural networks: the perceptron, feed forward neural networks
 *	Software Development Topics
-	   *	unit tests
+	   *	Unit tests
 *	Project
 	   *	Tech Fun C3 P3: Game AI, Statistical Analysis
 	   *	Tech Fun C3 P4: Game AI, Heuristical Agents
@@ -86,9 +86,9 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 ### Course 4: Machine Learning II
 
 *	Data Science Topics 
-	   *	computer vision: CNNs, importing and manipulating images; time series analysis: LSTMs, autocorrelation; reinforcement learning: defining environments in OpenAI Gym
+	   *	Computer vision: CNNs, importing and manipulating images; time series analysis: LSTMs, autocorrelation; reinforcement learning: defining environments in OpenAI Gym
 *	Software Development Topics
-     * servers (flask and fastAPI)
+     * Servers (flask and fastAPI)
 *	Project
 	   *	Tech Fun C4 P5 Game AI, 1-step Look Ahead
 	   *	Tech Fun C4 P6 Game AI, N-step Look Ahead
@@ -99,7 +99,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 	   *	Tech Fun C4 S3: Time Series Analysis
 	   *	Tech Fun C4 S4: Reinforcement Learning
  * Labs
-     * Tech Fun C4 L1: Neural Network linearity
+     * Tech Fun C4 L1: Neural Network Linearity
      * Tech Fun C4 L2: Unit Tests
 
 <p align=center>
