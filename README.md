@@ -23,6 +23,9 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
      * Tech Fun C1 L3: Practice with Functions and Pandas
  * Reading
      * JVDP chapters 1-2
+ * Non Contact Hour
+     * [learngitbranch](https://learngitbranching.js.org/) Introduction Sequence
+     * [machinelearning 101 pandas exercises](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 
 <p align=center>
 <img src="assets/week1.png" width=600></img>
@@ -51,7 +54,9 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
  * Reading
      * JVDP chapters 3-4
      * INFO 370 [Statistical Golems](https://docs.google.com/document/d/1daYaEaAo7AVqxITspemGKoJTcundjWoJH8e_CkskMN4/edit)
-
+ * Non Contact Hour
+     * [machinelearning 101 numpy exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+     
 <p align=center>
 <img src="assets/week2.png" width=600></img>
 </p>
