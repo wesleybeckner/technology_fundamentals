@@ -83,7 +83,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
  * Reading
      * JVDP chapter 5
  * Non Contact Hour
- 		 * [Github Tutorial](assets/github_tutorial.md)
+     * [Github Tutorial](assets/github_tutorial.md)
      * Tech Fun C3 E1: Unsupervised Learning
      * Tech Fun C3 E2: Support Vector Machines and Boosting
 
