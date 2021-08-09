@@ -7,8 +7,8 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 ### Course 1: Fundamentals
 
 *	Data Science Topics
-	   * Introduction to python; lists, dictionaries, and flow control; functions and pandas; visualization: matplotlib, seaborn and pandas; 
-*	Software Development Topics 
+	   * Introduction to python; lists, dictionaries, and flow control; functions and pandas; visualization: matplotlib, seaborn and pandas;
+*	Software Development Topics
 	   * Object oriented programming
 *	Project
 	   * Tech Fun C1 P1: Building TicTacToe in Python
@@ -35,7 +35,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 
 ### Course 2: Statistics and Model Creation
 
-*	Data Science Topics 
+*	Data Science Topics
 	   *	Bias-variance tradeoff; regression: linear, logistic, and multivariate; regularization: L1 and L2; inferential statistics: moods median, t-tests, f-tests, ANOVA; descriptive statistics: mean, median, mode, kurtosis, skew
 *	Software Development Topics
 	   *	Debugging
@@ -56,7 +56,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
      * INFO 370 [Statistical Golems](https://docs.google.com/document/d/1daYaEaAo7AVqxITspemGKoJTcundjWoJH8e_CkskMN4/edit)
  * Non Contact Hour
      * [machinelearning 101 numpy exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
-     
+
 <p align=center>
 <img src="assets/week2.png" width=600></img>
 </p>
@@ -65,7 +65,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 
 ### Course 3: Machine Learning I
 
-*	Data Science Topics 
+*	Data Science Topics
 	   *	Supervised learning: classification; resampling methods; model selection and regularization; beyond regression coefficients: tree-based methods; unsupervised learning: clustering and dimensionality reduction; neural networks: the perceptron, feed forward neural networks
 *	Software Development Topics
 	   *	Unit tests
@@ -83,6 +83,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
  * Reading
      * JVDP chapter 5
  * Non Contact Hour
+ 		 * [Github Tutorial](assets/github_tutorial.md)
      * Tech Fun C3 E1: Unsupervised Learning
      * Tech Fun C3 E2: Support Vector Machines and Boosting
 
@@ -93,7 +94,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 
 ### Course 4: Machine Learning II
 
-*	Data Science Topics 
+*	Data Science Topics
 	   *	Computer vision: CNNs, importing and manipulating images; time series analysis: LSTMs, autocorrelation; reinforcement learning: defining environments in OpenAI Gym
 *	Software Development Topics
      * Servers (flask and fastAPI)
