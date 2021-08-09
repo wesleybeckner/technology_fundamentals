@@ -74,7 +74,7 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
 	   *	Tech Fun C3 P4: Game AI, Heuristical Agents
 *	Sessions
 	   *	Tech Fun C3 S1: Feature Engineering
-	   *	Tech Fun C3 S2: Unsupervised and Supervised Learning
+	   *	Tech Fun C3 S2: Random Forests
 	   *	Tech Fun C3 S3: Multilayer Perceptron
 	   *	Tech Fun C3 S4: Feed Forward Neural Networks with Tensor Flow
  * Labs
@@ -82,6 +82,9 @@ Companion Reading: [The Python Data Science Handbook](https://jakevdp.github.io/
      * Tech Fun C3 L2: Supervised Learners
  * Reading
      * JVDP chapter 5
+ * Non Contact Hour
+     * Tech Fun C3 E1: Unsupervised Learning
+     * Tech Fun C3 E2: Support Vector Machines and Boosting
 
 <p align=center>
 <img src="assets/week3.png" width=600></img>
